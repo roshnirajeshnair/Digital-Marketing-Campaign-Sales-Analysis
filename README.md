@@ -60,16 +60,6 @@ The findings are designed to help marketers make smarter, data-driven decisions 
 
 ---
 
-## Project Structure
-
-```
-├── Digital_Marketing_Campaign_Sales_Analysis.ipynb   # Main analysis notebook
-├── Digital_Marketing_Campaign_Dataset.csv            # Dataset (download separately)
-└── README.md
-```
-
----
-
 ##  Analysis Workflow
 
 ### 1. Data Loading & Initial Overview
