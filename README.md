@@ -1,6 +1,6 @@
 # Digital Marketing Campaign Sales Analysis
 
-An end-to-end Exploratory Data Analysis (EDA) project that investigates the performance of digital marketing campaigns and identifies the key factors driving customer conversions.
+A project that investigates the performance of digital marketing campaigns and identifies the key factors driving customer conversions.
 
 ---
 
